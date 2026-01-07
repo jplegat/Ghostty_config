@@ -1,5 +1,7 @@
+# Reload config cmd shift ,
 # Terminfo
 shell-integration-features = ssh-terminfo
+
 # Solarized theme
 background = #002b36
 foreground = #839496
@@ -23,9 +25,11 @@ palette = 12=#839496
 palette = 13=#6c71c4
 palette = 14=#93a1a1
 palette = 15=#fdf6e3
+
 # Background opacity
 background-opacity = 0.80
-#Weindow size
+
+# Window size
 window-width = 210
 window-height = 55
 
